@@ -8,7 +8,7 @@ function Homepage() {
       <header className="App-header">
         <img src={ArthurHeadshot} className="App-logo" alt="logo" />
         <p>
-          Welcoem to arthurtutt.com
+          Welcome.
         </p>
         
       </header>
